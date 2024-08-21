@@ -1,1 +1,1 @@
-# Weel26_Day02_CodeChallenge
+# Week26_Day02_CodeChallenge
