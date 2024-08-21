@@ -1,0 +1,25 @@
+{
+  "name": "nba_teams",
+  "version": "1.0.0",
+  "description": "NBA team database",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCrew-CodeSchool/week12-day03-mern-app-ArlCIbe.git"
+  },
+  "keywords": [
+    "nba"
+  ],
+  "author": "Arlindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeCrew-CodeSchool/week12-day03-mern-app-ArlCIbe/issues"
+  },
+  "homepage": "https://github.com/CodeCrew-CodeSchool/week12-day03-mern-app-ArlCIbe#readme",
+  "dependencies": {
+    "mongoose": "^8.5.3"
+  }
+}
